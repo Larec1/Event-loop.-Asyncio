@@ -2,3 +2,8 @@
 __pycache__/
 *.pyc
 starwars.db
+starwars.db-journal
+.DS_Store
+.idea/
+.vscode/
+*.sqlite3

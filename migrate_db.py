@@ -23,7 +23,11 @@ async def migrate():
             homeworld TEXT,
             mass TEXT,
             name TEXT NOT NULL,
-            skin_color TEXT
+            skin_color TEXT,
+            films TEXT,
+            species TEXT,
+            starships TEXT,
+            vehicles TEXT
         )
     """)
     
